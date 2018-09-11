@@ -1,0 +1,15 @@
+micronaut:
+  function:
+    name: listOpenPullRequests
+github:
+  token: token
+  organization: organization
+  repositories:
+    - repository1
+    - repository2
+  users:
+    - user1
+    - user2
+slack:
+  token: token
+  channel: channel
