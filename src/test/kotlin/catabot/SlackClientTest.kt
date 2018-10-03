@@ -56,7 +56,7 @@ internal object SlackClientTest {
             "ts": "0000000000.000000",
             "message": {
                 "text": "text",
-                "username": "Slack API Tester",
+                "username": "Open Pull Requests",
                 "bot_id": "9ABCDEF42",
                 "type": "message",
                 "subtype": "bot_message",
@@ -71,7 +71,7 @@ internal object SlackClientTest {
         {
             "ok": false,
             "message": {
-                "text": "I NEED YOUR CLOTHES YOUR BOOTS AND YOUR MOTORCYCLE"
+                "text": "Error, bro"
             }
         }
         """.toByteArray(Charsets.UTF_8)
